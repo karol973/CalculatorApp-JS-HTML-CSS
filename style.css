@@ -97,10 +97,14 @@ background-color:darkcyan;
     font-size: 15px;
     display: none;
     outline:none;
+    margin: 7px auto;
 }
 .history-btn.active{
     display: block;
 }
 .history-item{
-    margin:8px 0px;
+    margin: 8px 0px;
+    letter-spacing: 1px;
+    border-bottom: 1px solid rgba(29,27,27, 0.233);
+    padding-bottom: 5px;
 }
